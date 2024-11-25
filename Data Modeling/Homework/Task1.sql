@@ -19,9 +19,9 @@ CREATE TABLE Actors(
 			actor TEXT,
 			actorid TEXT, 
 			year INTEGER,
-      ilmsdata films_data[],
-		  quality_class quality_class_type,
-    	is_active BOOLEAN,
-	    PRIMARY KEY(actor, actorid, year)
+     			filmsdata films_data[],
+		        quality_class quality_class_type,
+    	                is_active BOOLEAN,
+	                PRIMARY KEY(actor, actorid, year)
  );
 
