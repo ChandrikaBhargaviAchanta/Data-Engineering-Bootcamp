@@ -1,2 +1,2 @@
 ## Data-Engineering-Bootcamp
-WEEK 1 : DATA MODELING 
+WEEK 1 : DIMENSIONAL DATA MODELING 
