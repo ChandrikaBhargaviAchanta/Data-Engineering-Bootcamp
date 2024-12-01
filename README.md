@@ -4,6 +4,6 @@ WEEK 1: DIMENSIONAL DATA MODELING
           ~ Array  
           ~ Slowing Changing Dimension  
           ~ Idempotent Pipeline  
-          ~ Graph Data Modeling   
+          ~ Graph Data Modeling  <br> 
 WEEK 2: FACT DATA MODELING
 
