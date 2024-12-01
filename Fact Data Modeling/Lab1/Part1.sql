@@ -9,7 +9,7 @@
 Select game_id, team_id, player_id, count(1)
 from game_details 
 Group by 1,2,3
-Having count(1) > 1
+Having count(1) > 1;
 
 
 
@@ -59,7 +59,7 @@ SELECT
 		pts AS m_pts,
 		plus_minus AS m_plus_minus
  FROM deduped 
-WHERE row_num = 1
+WHERE row_num = 1;
 
 
 
