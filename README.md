@@ -5,7 +5,7 @@ WEEK 1: DIMENSIONAL DATA MODELING
           ~ Slowing Changing Dimension  
           ~ Idempotent Pipeline  
           ~ Graph Data Modeling  <br><br>
-WEEK 2: FACT DATA MODELING
+WEEK 2: FACT DATA MODELING  
           ~ Kimball Data Model  
           ~ Datelist Datatype  
           ~ Long term Analysis  <br><br>  
