@@ -8,5 +8,4 @@ WEEK 1: DIMENSIONAL DATA MODELING
 WEEK 2: FACT DATA MODELING  
           ~ Kimball Data Model  
           ~ Datelist Datatype  
-          ~ Long term Analysis  <br><br>  
-WEEK 3: DATA QUALITY
+          ~ Long term Analysis  
