@@ -8,5 +8,5 @@ WEEK 1: DIMENSIONAL DATA MODELING
 WEEK 2: FACT DATA MODELING  
           ~ Kimball Data Model  
           ~ Datelist Datatype  
-          ~ Long term Analysis  
+          ~ Long term Analysis   <br><br>  
 WEEK 3:  SPARK FUNDAMENTALS 
