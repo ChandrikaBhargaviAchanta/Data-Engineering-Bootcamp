@@ -10,5 +10,5 @@ WEEK 2: FACT DATA MODELING
           ~ Datelist Datatype  
           ~ Long term Analysis  <br>  
 WEEK 3:  SPARK FUNDAMENTALS  
-          ~ Different types of JOINS 
+          ~ Different types of JOINS  
           ~ How to dive into explain plans?
