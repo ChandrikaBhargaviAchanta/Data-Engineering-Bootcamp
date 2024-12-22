@@ -9,4 +9,6 @@ WEEK 2: FACT DATA MODELING
           ~ Kimball Data Model  
           ~ Datelist Datatype  
           ~ Long term Analysis  <br>  
-WEEK 3:  SPARK FUNDAMENTALS 
+WEEK 3:  SPARK FUNDAMENTALS  
+          ~ Different types of JOINS 
+          ~ How to dive into explain plans?
