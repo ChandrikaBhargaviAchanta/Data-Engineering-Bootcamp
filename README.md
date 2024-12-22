@@ -16,6 +16,6 @@ WEEK 3: SPARK FUNDAMENTALS
           ~ Testing Apache Spark Jobs in CI/CD   
           -- Analytics Track   
           ~ Build a Gold Pipeline like Airbnb MIDAS Process  
-          ~  WAP Patterns (Write Audit Publish)  <br> 
+          ~  WAP Patterns (Write Audit Publish)  <br><br> 
 WEEK 4:  ANALYTICAL PATTERNS
 
